@@ -1,0 +1,28 @@
+:root{
+    --cor-fonte-principal:darklategrey;
+}
+
+
+.body{
+    font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
+	color: #3b3b3b;
+    
+}
+h1,h2{
+    text-align: center;
+}
+
+.link{
+    color: black;
+    text-decoration: none;
+    
+}
+.row{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.h{
+   padding: 2px;
+}
